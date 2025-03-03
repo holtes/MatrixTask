@@ -2,7 +2,7 @@
 
 Этот проект решает задачу нахождения всех возможных смещений матриц модели, которые полностью совпадают с матрицами пространства. Условие задачи:
 
-![Uploading image.png…]()
+![Формула](https://latex.codecogs.com/svg.image?\forall&space;m&space;\in&space;Model,&space;\,&space;offset&space;\times&space;m&space;\in&space;Space)
 
 ## Описание задачи
 
